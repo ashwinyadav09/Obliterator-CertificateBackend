@@ -1,6 +1,0 @@
-{
-    "certificate_id": "123e4567-e89b-12d3-a456-426614174000",
-    "pdf_url": "https://your-project.supabase.co/storage/v1/object/public/certificates/sanitization_certificate_123e4567-e89b-12d3-a456-426614174000.pdf",
-    "created_at": "2025-09-21T10:30:00.000Z",
-    "message": "Certificate generated and stored successfully"
-}
